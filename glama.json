@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "name": "firecrawl-mcp",
+  "description": "Firecrawl web scraping MCP server for crawling, scraping, and extracting structured data from websites with autonomous x402 pay-per-call rails.",
+  "maintainers": [
+    "roblambert9"
+  ]
+}
